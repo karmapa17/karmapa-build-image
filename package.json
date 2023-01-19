@@ -1,6 +1,6 @@
 {
   "name": "karmapa-build-image",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "src/build-image.sh",
   "bin": {
